@@ -31,12 +31,8 @@
 
 - :construction_worker: Know about my experiences [LuisMedinaRaed.github.io](https://www.LuisMedinaRaed.github.io)
 
-<center>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisMedinaRaed&show_icons=true&locale=en&layout=compact" alt="LuisMedinaRaed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuisMedinaRaed&show_icons=true&locale=en" alt="LuisMedinaRaed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMedinaRaed&" alt="LuisMedinaRaed" /></p>
-
-</center>
