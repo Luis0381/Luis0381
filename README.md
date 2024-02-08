@@ -31,20 +31,6 @@
 
 - :construction_worker: Know about my experiences [LuisMedinaRaed.github.io](https://www.LuisMedinaRaed.github.io)
 
-<div align="center">
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.preveenraj.vercel.app/api?username=LuisMedinaRaed&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&text_color=3498db" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisMedinaRaed&show_icons=true&locale=en&layout=compact" alt="LuisMedinaRaed" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LuisMedinaRaed&show_icons=true&locale=en" alt="LuisMedinaRaed" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMedinaRaed&" alt="LuisMedinaRaed" />
-
-</div>
+[![Top Langs](https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=LuisMedinaRaed&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/preveenraj/github-readme-stats)
